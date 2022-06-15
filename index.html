@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="euclides981">
+    <link rel="icon" type="image/x-icon" href="img/favicon.svg">
+    <link rel="stylesheet" href="css/style.css">
+     <!-- tag property -->
+     <meta property="og:image" content="https://euclides981.github.io/calculadora/img/card.png">
+     <meta property="og:type" content="image/png">
+     <meta property="og:image:width" content="600">
+     <meta property="og:image:height" content="350">
+     <meta property="og:image:alt" content="Calculadora">
+     <meta property="og:title" content="Calculadora - JavaScript">
+     <meta property="og:description" content="Versão em JavaScript de uma Calculadora Básica">
+     <meta property="og:url" content="https://euclides981.github.io/calculadora/">
+     <meta name="twitter:card" content="summary_large_image">
+    <title>Calculadora em JavaScript</title>
+</head>
+<body class="caixa">
+    <div id="grid">
+        <div id="tela">
+            <textarea id="segundoValor" class="lcd" disabled ></textarea>
+            <textarea id="primeiroValor" class="lcd" disabled ></textarea>
+        </div>
+        <div id="flex">
+            <div onclick="soDoze()" id="v7" class="linha">7</div>
+            <div onclick="soDoze()" id="v8" class="linha">8</div>
+            <div onclick="soDoze()" id="v9" class="linha">9</div>
+            <div onclick="multiplicar()" id="vezes" class="linha">X</div>
+        </div>
+        <div id="flex">
+            <div onclick="soDoze()" id="v4" class="linha">4</div>
+            <div onclick="soDoze()" id="v5" class="linha">5</div>
+            <div onclick="soDoze()" id="v6" class="linha">6</div>
+            <div onclick="divisao()" id="dividir" class="linha">/</div>
+        </div>
+        <div id="flex">
+            <div onclick="soDoze()" id="v1" class="linha">1</div>
+            <div onclick="soDoze()" id="v2" class="linha">2</div>
+            <div onclick="soDoze()" id="v3" class="linha">3</div>
+            <div onclick="somar()" id="mais" class="linha">+</div>
+        </div>
+        <div id="flex">
+            <div id="ponto" class="linha"><strong>.</strong></div>
+            <div onclick="soDoze()" id="v0" class="linha">0</div>
+            <div onclick="resultado()" class="linha">=</div>
+            <div onclick="subtrair()" id="menos" class="linha">-</div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+    <script src="js/add.js"></script>
+    <script src="js/operacoes.js"></script>
+</body>
+</html>
