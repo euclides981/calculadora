@@ -7,6 +7,7 @@ var ponto = document.getElementById('ponto')
 var menos = document.getElementById('menos')
 var igual = document.getElementById('igual')
 var mais = document.getElementById('mais')
+var del = document.getElementById('del')
 var n0 = document.getElementById('v0')
 var n1 = document.getElementById('v1')
 var n2 = document.getElementById('v2')
@@ -20,6 +21,10 @@ var n9 = document.getElementById('v9')
 
 operador = 0
 
+del.addEventListener('click', () => {
+    valor1.value = ''
+    valor2.value = ''
+})
 vezes.addEventListener('click', () => {
     operador = 1
 })
