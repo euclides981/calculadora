@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 10.583334 10.583333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4706"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4702"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4698"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4501"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4186"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4182"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3477"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2539"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect861"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       id="linearGradient3204"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3202" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="-15.125"
+     inkscape:cy="22.5625"
+     inkscape:document-units="cm"
+     inkscape:current-layer="g11265"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     width="1000px"
+     showborder="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="ubuntu mono normal 24"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g6369"
+       transform="matrix(1.3263518,0,0,1.4798766,-24.871002,11.114852)"
+       style="stroke-width:0.713765">
+      <g
+         aria-label="9"
+         transform="scale(-1,1)"
+         id="g6363"
+         style="font-size:13.1393px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;stroke-width:0.251206" />
+      <g
+         id="g11265">
+        <g
+           id="g11464"
+           style="fill:#ff09ff;fill-opacity:1">
+          <g
+             aria-label="9"
+             transform="scale(-1,1)"
+             id="text6367"
+             style="font-style:italic;font-weight:bold;font-size:11.2622px;line-height:0;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;display:inline;stroke-width:0.251206;fill:#ff09ff;fill-opacity:1">
+            <path
+               d="m -22.270887,-4.5599647 q 0,2.0835071 -1.013598,3.1421539 -1.013598,1.04738464 -3.052056,1.05864684 l -0.03379,-0.78835404 q 1.261367,0 2.027197,-0.4955368 0.777091,-0.506799 1.02486,-1.7343789 -0.270293,0.1238843 -0.596897,0.2027197 -0.326604,0.067573 -0.686994,0.067573 -0.596897,0 -1.002336,-0.168933 -0.405439,-0.1801953 -0.653208,-0.4730125 -0.247768,-0.3040794 -0.36039,-0.6869942 -0.112622,-0.3829148 -0.112622,-0.8108784 0,-0.3829148 0.123884,-0.7770918 0.123884,-0.4054392 0.382915,-0.7320431 0.259031,-0.3266038 0.66447,-0.5405856 0.405439,-0.2139818 0.968549,-0.2139818 1.148745,0 1.734379,0.788354 0.585634,0.7883541 0.585634,2.1623425 z m -2.229915,0.6869942 q 0.36039,0 0.66447,-0.067573 0.315341,-0.067573 0.608158,-0.1914574 0.01126,-0.112622 0.01126,-0.2139818 0,-0.1013598 0,-0.2139818 0,-0.4392258 -0.06757,-0.8334028 -0.05631,-0.394177 -0.213981,-0.6869942 -0.146409,-0.2928172 -0.416702,-0.4617503 -0.25903,-0.1801952 -0.66447,-0.1801952 -0.337866,0 -0.56311,0.1464086 -0.225244,0.1351465 -0.371652,0.3491283 -0.146409,0.2027196 -0.213982,0.4617502 -0.05631,0.2590306 -0.05631,0.4955368 0,0.6869942 0.304079,1.0473846 0.315342,0.3491282 0.979812,0.3491282 z"
+               style="font-style:normal;font-weight:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ff09ff;fill-opacity:1"
+               id="path9445" />
+          </g>
+          <g
+             aria-label="9"
+             id="text8107"
+             style="font-style:italic;font-weight:bold;font-size:11.2622px;line-height:0;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;display:inline;stroke-width:0.251206;fill:#ff09ff;fill-opacity:1">
+            <path
+               d="m 23.211268,-4.5599647 q 0,2.0835071 -1.013598,3.1421539 -1.013598,1.04738464 -3.052056,1.05864684 L 19.111827,-1.147518 q 1.261367,0 2.027196,-0.4955368 0.777092,-0.506799 1.024861,-1.7343789 -0.270293,0.1238843 -0.596897,0.2027197 -0.326604,0.067573 -0.686994,0.067573 -0.596897,0 -1.002336,-0.168933 -0.405439,-0.1801953 -0.653208,-0.4730125 -0.247768,-0.3040794 -0.36039,-0.6869942 -0.112622,-0.3829148 -0.112622,-0.8108784 0,-0.3829148 0.123884,-0.7770918 0.123884,-0.4054392 0.382915,-0.7320431 0.25903,-0.3266038 0.66447,-0.5405856 0.405439,-0.2139818 0.968549,-0.2139818 1.148744,0 1.734379,0.788354 0.585634,0.7883541 0.585634,2.1623425 z m -2.229915,0.6869942 q 0.36039,0 0.664469,-0.067573 0.315342,-0.067573 0.608159,-0.1914574 0.01126,-0.112622 0.01126,-0.2139818 0,-0.1013598 0,-0.2139818 0,-0.4392258 -0.06757,-0.8334028 -0.05631,-0.394177 -0.213982,-0.6869942 -0.146408,-0.2928172 -0.416701,-0.4617503 -0.259031,-0.1801952 -0.66447,-0.1801952 -0.337866,0 -0.56311,0.1464086 -0.225244,0.1351465 -0.371652,0.3491283 -0.146409,0.2027196 -0.213982,0.4617502 -0.05631,0.2590306 -0.05631,0.4955368 0,0.6869942 0.304079,1.0473846 0.315342,0.3491282 0.979812,0.3491282 z"
+               style="font-style:normal;font-weight:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ff09ff;fill-opacity:1"
+               id="path9442" />
+          </g>
+        </g>
+        <g
+           id="g11468"
+           style="fill:#ff09ff;fill-opacity:1">
+          <ellipse
+             style="opacity:1;fill:#ff09ff;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77703;stop-color:#000000"
+             id="path9040"
+             cx="20.925623"
+             cy="-5.0309682"
+             rx="0.65326381"
+             ry="0.69992548" />
+          <ellipse
+             style="opacity:1;fill:#ff09ff;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77703;stop-color:#000000"
+             id="ellipse9122"
+             cx="24.425251"
+             cy="-4.9843063"
+             rx="0.65326381"
+             ry="0.69992548" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
