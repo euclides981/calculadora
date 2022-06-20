@@ -7,7 +7,9 @@ var ponto = document.getElementById('ponto')
 var menos = document.getElementById('menos')
 var igual = document.getElementById('igual')
 var mais = document.getElementById('mais')
-var del = document.getElementById('del')
+var del_dois = document.getElementById('del_campo_dois')
+var del_um = document.getElementById('del_campo_um')
+var del = document.getElementById('del_tudo')
 var n0 = document.getElementById('v0')
 var n1 = document.getElementById('v1')
 var n2 = document.getElementById('v2')
@@ -23,6 +25,12 @@ operador = 0
 
 del.addEventListener('click', () => {
     valor1.value = ''
+    valor2.value = ''
+})
+del_um.addEventListener('click', () => {
+    valor1.value = ''
+})
+del_dois.addEventListener('click', () => {
     valor2.value = ''
 })
 vezes.addEventListener('click', () => {

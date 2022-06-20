@@ -78,14 +78,36 @@
     font-size: 0.8em;
     color: #fff;
 }
-#del {
-    background-color: red;
+.bts_del {
+    border: solid 1px #c054db;
     width: 20px;
-    height: 20px;
-    border-radius: 50%;
+    height: 15px;
     cursor: pointer;
+}
+.bts_del:active {
+    transform: translateY(1px);
+}
+#del_campo_um {
+    background: linear-gradient(to bottom,#f099fc 50%, red 50%);
+}
+#del_campo_dois {
+    background: linear-gradient(to bottom, red 50%, #f099fc 50%);
+}
+#del_tudo {
+    background-color: red;
 }
 #meu_logo {
     display: flex;
     cursor: pointer;
+}
+#marca {
+    -webkit-touch-callout: none;  /* iPhone OS, Safari */
+    -webkit-user-select: none;    /* Chrome, Safari 3 */
+    -khtml-user-select: none;     /* Safari 2 */
+    -moz-user-select: none;       /* Firefox */
+    -ms-user-select: none;        /* IE10+ */
+    user-select: none;  
+}
+#marca {
+    cursor: cell;
 }
