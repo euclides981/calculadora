@@ -16,6 +16,12 @@
     padding: 10px;
     border-radius: 10px;
     gap: 2px;
+    -webkit-touch-callout: none;  /* iPhone OS, Safari */
+    -webkit-user-select: none;    /* Chrome, Safari 3 */
+    -khtml-user-select: none;     /* Safari 2 */
+    -moz-user-select: none;       /* Firefox */
+    -ms-user-select: none;        /* IE10+ */
+    user-select: none;       
 }
 #flex {
     display: flex;
@@ -32,12 +38,6 @@
     padding: 25px;
     width: 30px;
     cursor: pointer;
-    -webkit-touch-callout: none;  /* iPhone OS, Safari */
-    -webkit-user-select: none;    /* Chrome, Safari 3 */
-    -khtml-user-select: none;     /* Safari 2 */
-    -moz-user-select: none;       /* Firefox */
-    -ms-user-select: none;        /* IE10+ */
-    user-select: none;       
 }
 .linha:hover {
     background-color: #a261d6;
@@ -99,14 +99,6 @@
 #meu_logo {
     display: flex;
     cursor: pointer;
-}
-#marca {
-    -webkit-touch-callout: none;  /* iPhone OS, Safari */
-    -webkit-user-select: none;    /* Chrome, Safari 3 */
-    -khtml-user-select: none;     /* Safari 2 */
-    -moz-user-select: none;       /* Firefox */
-    -ms-user-select: none;        /* IE10+ */
-    user-select: none;  
 }
 #marca {
     cursor: cell;
